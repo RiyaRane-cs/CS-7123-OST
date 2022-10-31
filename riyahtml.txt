@@ -1,0 +1,8 @@
+<html>
+<head> 
+<title> HELLO WORLD ,WELCOME!! </title>
+</head>
+<body>
+     <h2> This is Riya from div2 </h2>
+</body>
+</html>
