@@ -1,6 +1,6 @@
 <html>
 <head> 
-<title> HELLO WORLD ,WELCOME!! </title>
+<title> HELLO WORLD !! ,WELCOME everyone!! </title>
 </head>
 <body>
      <h2> This is Riya from div2 </h2>
